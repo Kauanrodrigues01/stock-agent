@@ -36,7 +36,8 @@ if user_input := st.chat_input('Pergunte algo sobre o estoque...'):
     with st.chat_message('user'):
         st.write(user_input)
 
-    answer = get_answer(model=selected_model, temperature=temperature, question=user_input)
+    with st.spinner('Consultando base de dados...'):
+        answer = get_answer(model=selected_model, temperature=temperature, question=user_input)
     
     st.session_state.chat_history.append({'role': 'ai', 'content': answer})
     with st.chat_message('ai'):
