@@ -1,5 +1,9 @@
 # 📊 Stock GPT - Agente Inteligente de Estoque
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kauanrodrigues01/Kauanrodrigues01/refs/heads/main/images/projetos/stock-agent/page.png" width="70%">
+</p>
+
 Um agente conversacional inteligente que responde perguntas sobre o estoque de produtos utilizando um modelo de linguagem (LLM), consultas SQL e interface interativa com Streamlit.
 
 ---

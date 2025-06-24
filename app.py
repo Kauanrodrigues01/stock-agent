@@ -3,7 +3,7 @@ from agent import get_answer
 
 st.set_page_config(page_title='Stock GPT', page_icon='🤖')
 
-st.header('Bem-vindo ao GPT! 🤖')
+st.header('Bem-vindo ao Stock GPT! 🤖')
 
 # Sidebar for model selection and API key input
 model_options = [
