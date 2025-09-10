@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/python-v3.8+-blue.svg">
-  <img alt="Streamlit" src="https://img.shields.io/badge/streamlit-v1.46.0-red.svg">
-  <img alt="LangChain" src="https://img.shields.io/badge/langchain-latest-green.svg">
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-GPT--4-412991.svg">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-2E86C1?style=for-the-badge&logo=langchain&logoColor=white">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 
 ---
