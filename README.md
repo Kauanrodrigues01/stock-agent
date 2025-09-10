@@ -306,6 +306,6 @@ Agradecimentos especiais para:
 **Kauan Rodrigues Lima**
 
 - GitHub: [@Kauanrodrigues01](https://github.com/Kauanrodrigues01)
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/kauan-rodrigues-lima/)
+- LinkedIn: [Kauan Rodrigues](https://www.linkedin.com/in/kauan-rodrigues-lima/)
 
 **🔗 Link do Projeto**: [https://github.com/Kauanrodrigues01/stock-agent](https://github.com/Kauanrodrigues01/stock-agent)
